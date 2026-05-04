@@ -1,8 +1,0 @@
-Before uploading to CourseWeb:
-
-[ ] Run Playwright automation locally.
-[ ] Confirm execution_results.csv has one data row.
-[ ] Confirm results/preview_pass.png or preview_fail.png is generated.
-[ ] Upload the automation project to a public GitHub repository.
-[ ] Replace the placeholder in IT23204966_GitHub_Link.txt with your real public GitHub URL.
-[ ] Zip the IT23204966 folder and submit before the deadline.
