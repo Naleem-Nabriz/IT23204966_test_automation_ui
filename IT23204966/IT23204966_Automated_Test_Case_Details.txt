@@ -1,0 +1,11 @@
+Automated Test Case: Pos_0036
+Feature: Image format conversion
+Scenario: Verify preview functionality after uploading a valid PNG image in the Convert to PNG feature.
+Test data: sample.png
+Expected result: Uploaded PNG image should be shown in the Preview section.
+Tool: Playwright with Python
+Command:
+python image_preview_test.py --url "https://www.pixelssuite.com/convert-to-png" --slow-mo-ms 2000
+Output files after running:
+- execution_results.csv
+- results/preview_pass.png or results/preview_fail.png
